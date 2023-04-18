@@ -5,4 +5,5 @@ const routes = Router();
 
 //Definindo rotas de membros
 routes.use("/member", memberRoutes);
+
 export {routes};
